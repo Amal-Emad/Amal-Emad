@@ -14,7 +14,7 @@ const amal = {
         OS:["look at me👀One day I'll be proficient  with linux!]
         computerVision: ["OpenCV"],
         databases: ["MySQL"],
-        misc: ["TensorFlow", "PyTorch", "Blender"]
+        misc: ["TensorFlow", "PyTorch","ultralytics"]
     },
     embeddedSystems: ["Arduino", "Jetson Nano"],
     currentFocus: "Exploring new possibilities in Computer Vision",
