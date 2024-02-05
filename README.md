@@ -46,7 +46,7 @@ const amal = {
 
 ## Tools & Technologies
 
-### Programming & Development
+### Programming & Development![CodingGIF](https://github.com/Amal-Emad/WEB-PROGRAMMING-/blob/registration/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966.gif)
 
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](https://www.djangoproject.com/)
 [![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white)](http://www.ros.org/)
