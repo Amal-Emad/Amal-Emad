@@ -99,5 +99,5 @@ I'm a Night 🦉
 
 ## Contact
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
-- 📧 Gmail: amoolemad460@gmail.com
+- 📧 Gmail: Amall@ieee.org 
 - 💼 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/amal-alkraimeen-985531221)
