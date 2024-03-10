@@ -7,17 +7,17 @@ Welcome to my coding galaxy! 🚀 As a passionate Intelligent Systems Engineerin
 ```javascript
 const amal = {
     pronouns: "She" | "Her",
-    code: ["Python", "C++", "Java", "HTML", "CSS", "JavaScript"],
+    code: ["Python", "C++", "Java", "HTML", "CSS", "JavaScript","PHP"],
     askMeAbout: ["Intelligent Systems Engineering", "Computer Vision", "Machine Learning", "Deep Learning", "Web Development", "Graphic Design"],
     technologies: {
-        backend: ["Learn Flask , Django"],
-        OS:["look at me👀One day I'll be proficient  with linux!]
+        backend: ["Learn PHP"],
+        OS:[" linux!]
         computerVision: ["OpenCV"],
         databases: ["MySQL"],
         misc: ["TensorFlow", "PyTorch","ultralytics"]
     },
     embeddedSystems: ["Arduino", "Jetson Nano"],
-    currentFocus: "Exploring new possibilities in Computer Vision",
+    currentFocus: "Exploring new possibilities in Computer Vision" ,
     funFact: "There are two ways to write error-free programs; only the third one works."
 };
 ```
@@ -27,8 +27,8 @@ const amal = {
 - 💻 Enthusiastically working on Computer Vision projects
 - 🤖 Intrigued by the magic of Machine Learning and Deep Learning
 - 💪 Always ready to tackle coding challenges with a smile
-- 🎨 Proficient in Graphic Design using Photoshop, Illustrator, and Blender 🎨
-- 💡 Knowledgeable in C++, C, HTML, CSS, Python, and Arduino C
+- 🎨 Proficient in Graphic Design using Photoshop, Illustrator🎨
+- 💡 Knowledgeable in C++, C, HTML, CSS,JS,PHP, Python, and Arduino C
 - 🚀 Embarking on Jetson Nano and Arduino adventures
 - 🌌 A space aficionado who dreams of meeting NASA one day 🪐🚀
 - 🌟 Finding joy in solving coding problems, one line at a time 🧠💻
@@ -38,38 +38,24 @@ const amal = {
 
 *"Exploring the realms of code is my adventure, and the stars are my waypoints."*
 
-## Skills
-
-- **Programming Languages:** Python, C++, C, HTML, CSS, Arduino C
-- **ML/DL:** TensorFlow, PyTorch , Ultralytics
-- **Graphic Design:** Photoshop, Illustrator, Blender
-
 ## Tools & Technologies
 
 ### Programming & Development![CodingGIF](https://github.com/Amal-Emad/WEB-PROGRAMMING-/blob/registration/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966.gif)
 
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](https://www.djangoproject.com/)
-[![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white)](http://www.ros.org/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)](https://www.raspberrypi.org/)
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-
-### Database & Cloud
-
+### Database & Clou
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-
 ## Experience
-
 ### Python Programming Foundations
 - Completed [Coursera's Python Programming Foundations Specialization](https://www.coursera.org/specializations/python)
 - Achieved proficiency in Python syntax, data structures, and algorithms.
@@ -79,11 +65,10 @@ const amal = {
 - Specialized in Computer Vision projects, including facial recognition and object detection.
 
 ### Web Development
-- Developed dynamic and responsive websites using HTML, CSS, and JavaScript.
-- backend development with Django and database management with MySQL.
+- Developed dynamic and responsive websites using HTML, CSS, JavaScript ,PHP.
 
 ### Graphic Design
-- Proficient in using Adobe Photoshop, Illustrator, and Blender for creative graphic design projects.
+- Proficient in using Adobe Photoshop, Illustrator, and Blender.
 --------------------------------------------------------------------------------------------------
 
 ```
