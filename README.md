@@ -1,4 +1,5 @@
-## ![CodingGIF](https://github.com/Amal-Emad/WEB-PROGRAMMING-/blob/registration/WELLCOME%20TO%20AMAL%E2%80%99S%20GITHUB.gif)
+<img src="https://github.com/Amal-Emad/WEB-PROGRAMMING-/blob/registration/WELLCOME%20TO%20AMAL%E2%80%99S%20GITHUB.gif" alt="CodingGIF" width="900">
+
 
 # Hi there! 👋 I'm Amal Emad Alkraimeen
 
@@ -71,18 +72,11 @@ const amal = {
 - Proficient in using Adobe Photoshop, Illustrator, and Blender.
 --------------------------------------------------------------------------------------------------
 
-```
-I'm a Night 🦉
-🌞 Morning                402 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-🌆 Daytime                1700 commits        ██████████░░░░░░░░░░░░░░░   39.17 % 
-🌃 Evening                1412 commits        ████████░░░░░░░░░░░░░░░░░   32.53 % 
-🌙 Night                  826 commits         █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amal-Emad&show_icons=true&theme=transparent) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-Emad&hide_progress=true) |
+|---|---|
 
-```
-
- ![CodeCodingGIF](https://github.com/Amal-Emad/Amal-Emad/assets/110675604/c6a46ec1-a537-4d68-9ac7-6cb98e0e6376)
 
 ## Contact
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://Amall@ieee.org/)
 - 📧 Gmail: Amall@ieee.org 
 - 💼 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/amal-alkraimeen-985531221)
