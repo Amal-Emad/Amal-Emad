@@ -14,7 +14,6 @@ Welcome to my coding galaxy! 🚀 As a passionate Intelligent Systems Engineerin
 - 🌌 A space aficionado who dreams of meeting NASA one day 🪐🚀
 - 🌟 Finding joy in solving coding problems, one line at a time 🧠💻
 
-- 🚀 Aspiring to launch my own company named Ecovista
 
 --------------------------------------------------------------------------------------------------
 
