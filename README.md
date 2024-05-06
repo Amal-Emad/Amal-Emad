@@ -22,6 +22,6 @@ Welcome to my coding galaxy! 🚀 As a passionate Intelligent Systems Engineerin
 
 ## Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://Amall@ieee.org/)
-- 📧 Gmail: Amall@ieee.org
+- 📧 email: Amall@ieee.org
 
 [![LINKTREE](https://github.com/Amal-Emad/Amal-Emad/assets/110675604/60c61be1-e564-4e46-b633-13dbbd3fc28f)](https://linktr.ee/amalalkraimeen)
