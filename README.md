@@ -16,7 +16,7 @@ Welcome to my coding galaxy! 🚀 As a passionate Intelligent Systems Engineerin
 
 
 --------------------------------------------------------------------------------------------------
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Amal-Emad&theme=transparent&border_radius=4.1)](https://git.io/streak-stats)
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amal-Emad&show_icons=true&theme=transparent) 
 
 
@@ -24,4 +24,7 @@ Welcome to my coding galaxy! 🚀 As a passionate Intelligent Systems Engineerin
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://Amall@ieee.org/)
 - 📧 email: Amall@ieee.org
 
-[![LINKTREE](https://github.com/Amal-Emad/Amal-Emad/assets/110675604/60c61be1-e564-4e46-b633-13dbbd3fc28f)](https://linktr.ee/amalalkraimeen)
+<a href="https://linktr.ee/amalalkraimeen">
+  <img src="https://github.com/Amal-Emad/Amal-Emad/assets/110675604/60c61be1-e564-4e46-b633-13dbbd3fc28f" width="200" height="auto" />
+</a>
+
